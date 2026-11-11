@@ -1,0 +1,6 @@
+﻿__pycache__/
+venv/
+*.png
+log_xu_ly.txt
+BaoCaoBanHang.xlsx
+DonHang_Moi.xlsx
